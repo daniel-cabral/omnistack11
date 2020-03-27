@@ -1,5 +1,5 @@
 # Semana Omnistack 11
-Repositório das atividades da Semana Omnistack 11 da RocketSeat (Readme referenciado do @MLDOliveira)
+Repositório das atividades da Semana Omnistack 11 da RocketSeat (Readme referenciado do [Mateus Oliveira](https://github.com/MLDOliveira))
 
 
 ## Objetivos da aplicação
