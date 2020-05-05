@@ -27,6 +27,6 @@ routes.delete('/incidents/:id', IncidentController.delete);
 
 
 // LISTAR PERFIS
-routes.get('profile', ProfileController.index)
+routes.get('/profile', ProfileController.index)
 
 module.exports = routes;
